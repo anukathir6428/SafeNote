@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726413069644",
+    "project_id": "safenote-da930",
+    "storage_bucket": "safenote-da930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726413069644:android:4a45eb460855961a6293e9",
+        "android_client_info": {
+          "package_name": "com.example.safenote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYV95Vl2-jPH_nK9DhfJIRbba-3QQbs2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
